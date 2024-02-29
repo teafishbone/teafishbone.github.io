@@ -2,528 +2,528 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>http://localhost:1313/blowfish/tags/</link>
+    <link>https://nunocoracao.github.io/blowfish/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Blowfish</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blowfish/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nunocoracao.github.io/blowfish/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blowfish</title>
-      <link>http://localhost:1313/blowfish/tags/blowfish/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/blowfish/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/blowfish/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/blowfish/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/blowfish/tags/hugo/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/hugo/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/hugo/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/blowfish/tags/tutorial/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/tutorial/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Authors</title>
-      <link>http://localhost:1313/blowfish/tags/authors/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/authors/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/authors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sample</title>
-      <link>http://localhost:1313/blowfish/tags/sample/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/sample/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/sample/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/sample/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Thumbnail</title>
-      <link>http://localhost:1313/blowfish/tags/thumbnail/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/thumbnail/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/thumbnail/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/thumbnail/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/blowfish/tags/docs/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/docs/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/docs/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New</title>
-      <link>http://localhost:1313/blowfish/tags/new/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/new/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/new/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/new/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/blowfish/tags/installation/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/installation/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/installation/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/installation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Config</title>
-      <link>http://localhost:1313/blowfish/tags/config/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/config/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/config/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/config/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Icons</title>
-      <link>http://localhost:1313/blowfish/tags/icons/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/icons/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/icons/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/blowfish/tags/shortcodes/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/shortcodes/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/shortcodes/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/shortcodes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Users</title>
-      <link>http://localhost:1313/blowfish/tags/users/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/users/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/users/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homepage</title>
-      <link>http://localhost:1313/blowfish/tags/homepage/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/homepage/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/homepage/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/homepage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Layouts</title>
-      <link>http://localhost:1313/blowfish/tags/layouts/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/layouts/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/layouts/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/layouts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>http://localhost:1313/blowfish/tags/front-matter/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/front-matter/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/front-matter/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/front-matter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Icon</title>
-      <link>http://localhost:1313/blowfish/tags/icon/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/icon/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/icon/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/icon/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lead</title>
-      <link>http://localhost:1313/blowfish/tags/lead/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/lead/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/lead/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/lead/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mermaid</title>
-      <link>http://localhost:1313/blowfish/tags/mermaid/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/mermaid/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/mermaid/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/mermaid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Analytics</title>
-      <link>http://localhost:1313/blowfish/tags/analytics/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/analytics/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/analytics/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/analytics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comments</title>
-      <link>http://localhost:1313/blowfish/tags/comments/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/comments/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/comments/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/comments/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Favicons</title>
-      <link>http://localhost:1313/blowfish/tags/favicons/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/favicons/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/favicons/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/favicons/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Partials</title>
-      <link>http://localhost:1313/blowfish/tags/partials/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/partials/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/partials/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/partials/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/blowfish/tags/privacy/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/privacy/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/privacy/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Content</title>
-      <link>http://localhost:1313/blowfish/tags/content/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/content/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/content/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/content/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/blowfish/tags/example/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/example/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/example/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Series</title>
-      <link>http://localhost:1313/blowfish/tags/series/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/series/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/series/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Advanced</title>
-      <link>http://localhost:1313/blowfish/tags/advanced/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/advanced/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/advanced/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/advanced/</guid>
       <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
       
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/blowfish/tags/css/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/css/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/css/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Deployment</title>
-      <link>http://localhost:1313/blowfish/tags/deployment/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/deployment/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/deployment/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/deployment/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/blowfish/tags/github/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/github/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/github/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/github/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hosting</title>
-      <link>http://localhost:1313/blowfish/tags/hosting/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/hosting/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/hosting/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/hosting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Netlify</title>
-      <link>http://localhost:1313/blowfish/tags/netlify/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/netlify/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/netlify/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/netlify/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Render</title>
-      <link>http://localhost:1313/blowfish/tags/render/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/render/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/render/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/render/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>http://localhost:1313/blowfish/tags/firebase/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/firebase/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/firebase/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/firebase/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Likes</title>
-      <link>http://localhost:1313/blowfish/tags/likes/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/likes/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/likes/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/likes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Views</title>
-      <link>http://localhost:1313/blowfish/tags/views/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/views/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/views/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/views/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/blowfish/tags/html/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/html/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/blowfish/tags/markdown/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/markdown/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/markdown/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gist</title>
-      <link>http://localhost:1313/blowfish/tags/gist/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/gist/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/gist/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>http://localhost:1313/blowfish/tags/twitter/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/twitter/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/twitter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vimeo</title>
-      <link>http://localhost:1313/blowfish/tags/vimeo/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/vimeo/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/vimeo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Youtube</title>
-      <link>http://localhost:1313/blowfish/tags/youtube/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/youtube/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/youtube/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Latin</title>
-      <link>http://localhost:1313/blowfish/tags/latin/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/latin/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/latin/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/latin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/blowfish/tags/text/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/text/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/text/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Katex</title>
-      <link>http://localhost:1313/blowfish/tags/katex/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/katex/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/katex/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/katex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Maths</title>
-      <link>http://localhost:1313/blowfish/tags/maths/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/maths/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/maths/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/maths/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chart</title>
-      <link>http://localhost:1313/blowfish/tags/chart/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/chart/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/chart/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diagram</title>
-      <link>http://localhost:1313/blowfish/tags/diagram/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/diagram/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/diagram/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/diagram/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Graph</title>
-      <link>http://localhost:1313/blowfish/tags/graph/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/graph/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/graph/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/blowfish/tags/emoji/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/emoji/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/emoji/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://localhost:1313/blowfish/tags/template/</link>
+      <link>https://nunocoracao.github.io/blowfish/tags/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/tags/template/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/tags/template/</guid>
       <description></description>
       
     </item>

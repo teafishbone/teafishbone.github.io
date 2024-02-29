@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced on Blowfish</title>
-    <link>http://localhost:1313/blowfish/tags/advanced/</link>
+    <link>https://nunocoracao.github.io/blowfish/tags/advanced/</link>
     <description>Recent content in Advanced on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Blowfish</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blowfish/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nunocoracao.github.io/blowfish/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Customisation</title>
-      <link>http://localhost:1313/blowfish/docs/advanced-customisation/</link>
+      <link>https://nunocoracao.github.io/blowfish/docs/advanced-customisation/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish/docs/advanced-customisation/</guid>
+      <guid>https://nunocoracao.github.io/blowfish/docs/advanced-customisation/</guid>
       <description>There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blowfish/docs/advanced-customisation/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nunocoracao.github.io/blowfish/docs/advanced-customisation/featured.png" />
     </item>
     
   </channel>
